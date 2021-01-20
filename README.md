@@ -1,7 +1,6 @@
-# AILPCC
-Hello-World
+
 <!doctype html>
-<html lang="zh-cn">
+<html lang="">
  <head>
   <meta charset="UTF-8">
   <meta name="Keywords" content="">
